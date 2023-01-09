@@ -12,7 +12,7 @@
     "url": "git+https://github.com/03balogun/instagram-bot.git"
   },
   "dependencies": {
-    "firebase-admin": "^6.4.0",
+    "firebase-admin": "^11.4.1",
     "puppeteer": "^1.9.0",
     "shuffle-array": "^1.0.1"
   },
